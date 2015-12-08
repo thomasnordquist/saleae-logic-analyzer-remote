@@ -1,0 +1,6 @@
+[begin] (Logic)
+        [sep]
+	[exec] (xterm) {xterm}
+        [reconfig] (Reconfigure)
+        [restart] (Restart)
+[end]
